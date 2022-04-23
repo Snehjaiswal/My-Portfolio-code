@@ -1,1 +1,7 @@
+/*
+ * Title:   ITEG Management System
+ * Author:     Sneh Jaiswal
+ * Created On: Sat Apr 23 2022 8:47:08 pm
+ */
+
 The scss source files are available in the pro version.

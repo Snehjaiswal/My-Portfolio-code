@@ -241,9 +241,3 @@
                   </div>
                 </div>
                 <!-- Get in tuch End-->
-
-                
-
-
-
-

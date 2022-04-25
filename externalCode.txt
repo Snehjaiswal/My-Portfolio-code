@@ -224,7 +224,6 @@
                       <li><span class="ion-email"></span> snehjaiswal20@gmail.com</li>
                     </ul>
                   </div>
-
                   <!-- Socials -->
                   <div class="socials">
                     <ul>

@@ -65,6 +65,7 @@
                 egestas non nisi.
               </p>
             </div>
+            
             <div class="card-footer">
               <div class="post-author">
                 <a href="#">
